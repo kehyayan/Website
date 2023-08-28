@@ -36,6 +36,12 @@
     padding-bottom: 4rem;
 }
 
+.container {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
 /* about section image css */
 .imageAboutPage {
     width: 100%;
